@@ -4,7 +4,7 @@ I'm a **full stack developer** based in Brazil <a href="https://wikipedia.org/wi
 
 I'm always trying to make something cool :)
 
-### _Technologies & Tools_
+### _Technologies_
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -17,10 +17,28 @@ I'm always trying to make something cool :)
 ![NextJS](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-%23000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-%232D3748?style=flat-square&logo=prisma&logoColor=white)
+
+### _Workspace_
+
+![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
+![KDE](https://img.shields.io/badge/-KDE-1D99F3?style=flat-square&logo=kde&logoColor=white)
+![Windows 10](https://img.shields.io/badge/-Windows%2010-0078D6?style=flat-square&logo=windows&logoColor=white)
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white)
+![Zsh](https://img.shields.io/badge/-Zsh-1A2C34?style=flat-square&logo=windows-terminal&logoColor=white)
+![Brave](https://img.shields.io/badge/-Brave-FB542B?style=flat-square&logo=brave&logoColor=white)
+![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white)
 
 ### _Stats_
 
 <p align="center">
-    <img alt="umgustavo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=umgustavo&include_all_commits=true&show_icons=true&title_color=ff79c6&icon_color=8be9fd&text_color=c9d1d9&bg_color=0d1117" height="160em"/>
-    <img alt="umgustavo's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umgustavo&layout=compact&title_color=ff79c6&text_color=c9d1d9&bg_color=0d1117" height="160em"/>
+    <img alt="umgustavo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=umgustavo&include_all_commits=true&show_icons=true&title_color=cba6f7&icon_color=a6e3a1&text_color=cdd6f4&bg_color=181825" height="160em"/>
+    <img alt="umgustavo's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umgustavo&layout=compact&title_color=cba6f7&text_color=cdd6f4&bg_color=181825" height="160em"/>
 </p>
+
+
+
