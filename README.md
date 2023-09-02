@@ -21,9 +21,9 @@ I'm always trying to make something cool :)
 
 ### _Workspace_
 
-![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
-![KDE](https://img.shields.io/badge/-KDE-1D99F3?style=flat-square&logo=kde&logoColor=white)
 ![Windows 10](https://img.shields.io/badge/-Windows%2010-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
+![WSL2](https://img.shields.io/badge/-WSL2-D64008?style=flat-square&logo=linux&logoColor=white)
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
